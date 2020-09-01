@@ -1,0 +1,4 @@
+{
+    "baseUrl" :"https://qa-dentsu.hudsonmx.net/#/login",
+    "testFiles":"**/*.feature"
+}
